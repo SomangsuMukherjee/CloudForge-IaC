@@ -27,3 +27,9 @@ variable "environment" {
   type        = string
   default     = "production"
 }
+
+variable "render_owner_id" {
+  description = "Render workspace/owner ID"
+  type        = string
+  sensitive   = true
+}
