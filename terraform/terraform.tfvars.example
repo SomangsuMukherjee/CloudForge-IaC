@@ -1,0 +1,5 @@
+render_api_key  = "your_render_api_key_here"
+service_name    = "cloudforge-api"
+github_repo_url = "https://github.com/SomangsuMukherjee/CloudForge-IaC"
+github_branch   = "main"
+environment     = "production"
